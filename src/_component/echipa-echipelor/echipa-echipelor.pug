@@ -1,8 +1,8 @@
 .echipa-echipelor
-  h2.echipa-echipelor__titlu Echipa rachetelor si paletelor
+  h2.echipa-echipelor__titlu Our team
   .echipa-echipelor__lista-imagine
     each imageName in data.imageNameList
       .echipa-echipelor__imagine(
-        style=`background-image: url(/asset/image/${imageName}.jpg)`
+        style=`background-image: url(/asset/image/${imageName.image}.jpg)`
       )
-      h2.echipa-echiplor__nume=imageName.split('-').map(b => b[0].toUpperCase() + b.slice(1)).join(' ')
+      h2.echipa-echiplor__nume=imageName.name

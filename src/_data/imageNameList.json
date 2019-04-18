@@ -1,8 +1,26 @@
 [
-  "marianus-smecherus",
-  "gratielos-originalus",
-  "andreius-strongus",
-  "ancus-bazatus",
-  "ionelus-tataius",
-  "vioricus-fericitus"
+  {
+    "image": "marianus-smecherus",
+    "name": "Marian Zburlea"
+  },
+  {
+    "image": "gratielos-originalus",
+    "name": "Gratiela Zburlea"
+  },
+  {
+    "image": "andreius-strongus",
+    "name": "Andrei Nicu"
+  },
+  {
+    "image": "ancus-bazatus",
+    "name": "Anca Hantari"
+  },
+  {
+    "image": "ionelus-tataius",
+    "name": "Ionel Zburlea"
+  },
+  {
+    "image": "vioricus-fericitus",
+    "name": "Viorica Bar"
+  }
 ]

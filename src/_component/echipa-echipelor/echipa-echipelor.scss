@@ -1,0 +1,31 @@
+.echipa-echipelor__imagine {
+  width: 256px;
+  height: 256px;
+  border-radius: 50%;
+  border: 0.2rem solid $color-white;
+  background-position: center center;
+  margin: 1rem;
+  transition: 0.2s;
+  background-size: 100%;
+
+  &:hover {
+    background-size: 125%;
+  }
+}
+
+h2.echipa-echiplor__nume {
+  text-align: center;
+  color: white;
+  margin-bottom: 3rem;
+}
+
+.echipa-echipelor {
+  background-color: $color-elephant;
+
+  @extend %sectiune-smechera;
+  position: relative;
+}
+
+.echipa-echipelor__titlu {
+  @extend %mega-ultra__titlu;
+}

@@ -1,0 +1,15 @@
+.super {
+  background-color: $color-chateau-green;
+
+  @extend %sectiune-smechera;
+  position: relative;
+}
+
+.super__titlu {
+  @extend %mega-ultra__titlu;
+}
+
+.super__descriere {
+  text-indent: 1rem;
+  margin-bottom: 1rem;
+}

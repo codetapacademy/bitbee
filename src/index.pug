@@ -1,0 +1,26 @@
+doctype html
+html(lang="en")
+  head
+    title Welcome to BitBee Ltd
+    meta(
+      content="Facts back our statements We're busy growing the CodeTap Academy" 
+      name="description"
+    )
+    meta(
+      name="viewport" 
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    )
+    //- this checks to see the the "embed" property is set to "true"
+    //- in the package.json file
+    //- if config.entry.css.embed
+    //-   link(rel="stylesheet" href=`${embedPath}` inline)
+  body
+    include _component/teasta/teasta
+    include _component/super/super
+    include _component/duper/duper
+    include _component/focus/focus
+    include _component/echipa-echipelor/echipa-echipelor
+    //- The style.css is at the bottom so it doesn't
+    //- block the loading of assets
+    if config.entry.css.external
+      link(rel="stylesheet", href=`${baseUrl}/style.css`)

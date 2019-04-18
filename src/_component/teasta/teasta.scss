@@ -1,0 +1,49 @@
+.teasta {
+  background-color: $color-flamingo;
+  
+  @extend %sectiune-smechera;
+
+  position: relative;
+
+  &__box {
+    position: relative;
+    padding: 1rem;
+    margin-top: 1rem;
+    
+    &::before {
+      border-radius: 0.5rem;
+      content: '';
+      background-color: $color-white;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      transform: skew(-10deg);
+    }
+  }
+
+  &__box-message {
+    position: relative;
+    display: block;
+    text-align: center;
+  }
+
+  &__link {
+    position: relative;
+    color: $color-royal-blue;
+    text-decoration: none;
+    font-size: 1.3rem;
+    display: block;
+    padding-top: 0.5rem;
+  }
+  
+  &__titlu {
+    @extend %mega-ultra__titlu;
+  }
+  
+  &__descriere {
+    text-indent: 1rem;
+    font-size: 1.2rem;
+  }
+}

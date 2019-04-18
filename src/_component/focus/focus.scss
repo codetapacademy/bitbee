@@ -1,0 +1,17 @@
+.focus {
+  background-color: $color-saffron;
+
+  @extend %sectiune-smechera;
+  position: relative;
+  
+  &__titlu {
+    @extend %mega-ultra__titlu;
+  }
+  
+  &__descriere {
+    text-indent: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    // color: $color-white;
+  }
+}

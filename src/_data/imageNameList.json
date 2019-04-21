@@ -1,30 +1,42 @@
 [
   {
     "image": "marianus-smecherus",
-    "name": "Marian Zburlea"
+    "name": "Marian Zburlea", 
+    "jobTitle": "CEO"
   },
   {
     "image": "gratielos-originalus",
-    "name": "Gratiela Zburlea"
+    "name": "Gratiela Zburlea",
+    "jobTitle": "Marketing Director"
   },
   {
     "image": "elenush",
-    "name": "Elena Tandara"
+    "name": "Elena Tandara",
+    "jobTitle": "Junior Web Developer"
+  },
+  {
+    "image": "paul_img",
+    "name": "Pavel Ciupitu",
+    "jobTitle": "Junior Web Developer"
   },
   {
     "image": "andreius-strongus",
-    "name": "Andrei Nicu"
+    "name": "Andrei Nicu",
+    "jobTitle": "Video Editor"
   },
   {
     "image": "ancus-bazatus",
-    "name": "Anca Hantari"
+    "name": "Anca Hantari",
+    "jobTitle": "Sales Adviser"
   },
   {
     "image": "ionelus-tataius",
-    "name": "Ionel Zburlea"
+    "name": "Ionel Zburlea",
+    "jobTitle": "Personal Assistant"
   },
   {
     "image": "vioricus-fericitus",
-    "name": "Viorica Bar"
+    "name": "Viorica Bar",
+    "jobTitle": "Sales Adviser"
   }
 ]

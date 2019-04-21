@@ -20,6 +20,11 @@
     "jobTitle": "Junior Web Developer"
   },
   {
+    "image": "marcelus",
+    "name": "Marcela Anton",
+    "jobTitle": "Starter Web Developer"
+  },
+  {
     "image": "andreius-strongus",
     "name": "Andrei Nicu",
     "jobTitle": "Video Editor"
@@ -38,10 +43,5 @@
     "image": "vioricus-fericitus",
     "name": "Viorica Bar",
     "jobTitle": "Sales Adviser"
-  },
-  {
-    "image": "marcelus",
-    "name": "Marcela Anton",
-    "jobTitle": "Starter Web Developer"
   }
 ]

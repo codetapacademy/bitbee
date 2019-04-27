@@ -10,9 +10,9 @@
     "jobTitle": "Full Stack Developer"
   },
   {
-    "image": "gratielos-originalus",
-    "name": "Gratiela Zburlea",
-    "jobTitle": "Marketing Director"
+    "image": "catalin-sandru",
+    "name": "Catalin Sandru",
+    "jobTitle": "Junior Web Developer"
   },
   {
     "image": "elenush",
@@ -33,6 +33,11 @@
     "image": "antonio-radosav",
     "name": "Antonio Radosav",
     "jobTitle": "Starter Web Developer"
+  },
+  {
+    "image": "gratielos-originalus",
+    "name": "Gratiela Zburlea",
+    "jobTitle": "Marketing Director"
   },
   {
     "image": "andreius-strongus",

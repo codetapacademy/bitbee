@@ -5,6 +5,11 @@
     "jobTitle": "CEO"
   },
   {
+    "image": "laurentiu-tanase",
+    "name": "Laurentiu Tanase", 
+    "jobTitle": "Full Stack Developer"
+  },
+  {
     "image": "gratielos-originalus",
     "name": "Gratiela Zburlea",
     "jobTitle": "Marketing Director"
@@ -18,6 +23,11 @@
     "image": "paul_img",
     "name": "Pavel Ciupitu",
     "jobTitle": "Junior Web Developer"
+  },
+  {
+    "image": "marcelus",
+    "name": "Marcela Anton",
+    "jobTitle": "Starter Web Developer"
   },
   {
     "image": "andreius-strongus",

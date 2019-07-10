@@ -13,7 +13,7 @@
   },
   "//": "CUSTOM CONFIGURATION",
   "config": {
-    "customUrl": "http://bitbee.uk",
+    "customUrl": "//bitbee.uk",
     "githubUrl": "https://github.com/codetapio/bitbee.git",
     "deployToGithubIo": false,
     "directory": {
